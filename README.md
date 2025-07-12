@@ -6,7 +6,8 @@ Cold email generator for services company using groq, langchain and streamlit. I
 - Apple needs a Principal Software Engineer and is spending time and resources in the hiring process, on boarding, training etc
 - Atliq is Software Development company can provide a dedicated software development engineer to Apple. So, the business development executive (Vineet Sharma) from Atliq is going to reach out to Apple via a cold email.
 
-![img.png](imgs/img.png)
+<img width="964" height="608" alt="image" src="https://github.com/user-attachments/assets/5b123c8f-5479-42f8-9a7f-5e9494c140f0" />
+
 
 ## Architecture Diagram
 ![img.png](imgs/architecture.png)
